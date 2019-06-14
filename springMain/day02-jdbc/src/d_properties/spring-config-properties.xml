@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/context
+                           http://www.springframework.org/schema/context/spring-context.xsd">
+
+<!--    加载properties文件
+            classpath:表示src下-->
+    <context:property-placeholder location="classpath:d_properties/jdbcInfo.properties"/>
+
+
+    <!--创建数据源
+            使用${key}获得配置文件内容-->
+    <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+        <property name="driverClass" value="${jdbc.driverClass}"></property>
+        <property name="jdbcUrl" value="${jdbc.jdbcUrl}"></property>
+        <property name="user" value="${jdbc.user}"></property>
+        <property name="password" value="${jdbc.password}"></property>
+    </bean>
+<!--配置dao
+        dao 继承了JdbcDaoSupport，之后只需要注入数据源，底层将自动创建JdbcTemplate-->
+    <bean id="userDao" class="d_properties.UserDao">
+<!--        可以直接注入dataSource说明JdbcDaoSupport中有对应的set方法，因为我们自己的dao类中没有set数据源的方法-->
+        <property name="dataSource" ref="dataSource"></property>
+    </bean>
+</beans>

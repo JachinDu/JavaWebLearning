@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="mybatis.dao.EmployeeMapperDynamicSQL">
+<!--    动态sql标签
+        if
+        choose(when, otherwise)
+        trim(where, set)
+        foreach-->
+
+<!--    查询员工，携带了哪个字段查询条件就带上这个字段的值-->
+<!--        public List<Employee> getEmpsByConditionIf(Employee employee);-->
+    <select id="getEmpsByConditionIf" resultType="mybatis.bean.Employee">
+        select * from tb_employee
+        <!-- where标签会将后面判断条件前面多出来多and或or自动去掉-->
+        <where>
+            <!-- test:判断表达式(OGNL)参照官方文档，类似与el表达式
+            从参数中取值进行判断-->
+            <if test="id!=null">
+                id=#{id}
+            </if>
+            <if test="lastName!=null and lastName!=''">
+                and last_name like #{lastName}
+            </if>
+            <if test="email!=null and email.trim()!=''">
+                and email=#{email}
+            </if>
+            <if test="gender==0 or gender==1">
+                and gender=#{gender}
+            </if>
+        </where>
+    </select>
+
+
+<!--        public List<Employee> getEmpsByConditionTrim(Employee employee);-->
+    <select id="getEmpsByConditionTrim" resultType="mybatis.bean.Employee">
+                select * from tb_employee
+                <!-- where无法解决后面多出的and或or
+                        trim:属性
+                        trim标签体中是整个字符串拼串后的结果。
+                            prefix：前缀：给拼串后的整个字符串加一个前缀
+                            prefixOverrides:前缀覆盖：去掉整个字符串前面多余的字符
+                            suffix: 后缀：给拼串后的整个字符串加一个后缀
+                            suffixOverrides:后缀覆盖：去掉整个字符串后面多余的字符-->
+                <trim prefix="where" suffixOverrides="and">
+                    <!-- test:判断表达式(OGNL)参照官方文档，类似与el表达式
+            从参数中取值进行判断-->
+                    <if test="id!=null">
+                        id=#{id}
+                    </if>
+                    <if test="lastName!=null and lastName!=''">
+                        and last_name like #{lastName}
+                    </if>
+                    <if test="email!=null and email.trim()!=''">
+                        and email=#{email}
+                    </if>
+                    <if test="gender==0 or gender==1">
+                        and gender=#{gender}
+                    </if>
+                </trim>
+    </select>
+
+<!--    public List<Employee> getEmpsByConditionChoose(Employee employee);-->
+<select id="getEmpsByConditionChoose" resultType="mybatis.bean.Employee">
+                    select * from tb_employee
+                    <where>
+                    <!--choose：带了哪个字段值就用哪个字段去查，只会进入其中一个。-->
+                    <choose>
+                        <when test="id!=null">
+                            id=#{id}
+                        </when>
+                        <when test="lastName!=null">
+                            last_name like #{lastName}
+                        </when>
+                        <when test="email!=null">
+                            email=#{email}
+                        </when>
+                        <!--其他情况 -->
+                        <otherwise>
+                            gender=0
+                        </otherwise>
+                    </choose>
+                    </where>
+</select>
+
+
+<!--        public void updateEmp(Employee employee);-->
+    <update id="updateEmp">
+        update tb_employee
+        <!-- 带了那个字段值就更新哪个字段值-->
+        <set>
+            <if test="lastName!=null">
+                last_name=#{lastName}
+            </if>
+            <if test="email!=null">
+                email=#{email}
+            </if>
+            <if test="gender!=null">
+                gender=#{gender}
+            </if>
+        </set>
+    </update>
+
+<!--        public List<Employee> getEmpsByConditionForeach(List<Integer> ids);-->
+    <select id="getEmpsByConditionForeach" resultType="mybatis.bean.Employee">
+        select * from tb_employee where id in
+        <!-- collection：指定要遍历的集合
+                        若Mapper中函数参数为List<>，则value为list
+                                          int[], 则value为array
+                                          Map,   则value为ids
+             item：将遍历出的元素赋值给指定的变量
+                    #{}就能取出变量值
+             separator: 每个元素之间的分隔符
+             open：遍历出所有结果拼接一个开始的字符
+             close：遍历出所有结果拼接一个结束的字符
+             index:索引：遍历list时是索引，item是值
+                        遍历map时表示key，item是值-->
+        <foreach collection="list" item="item_id" separator=","
+        open="(" close=")">
+            #{item_id}
+        </foreach>
+    </select>
+
+
+<!--    批量保存(插入)-->
+<!--        public void addEmps(@Param("emps") List<Employee> emps);-->
+    <insert id="addEmps">
+        insert into tb_employee(last_name, email, gender, d_id)
+        values 
+        <foreach collection="emps" item="emp" separator=",">
+            (#{emp.lastName},#{emp.email},#{emp.gender},#{emp.dept.id})
+        </foreach>
+    </insert>
+
+</mapper>

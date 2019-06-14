@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--namespace：名称空间，指定为接口全类名
+    id：唯一标识，接口中对应方法名
+    resultType：返回值类型（全限定类名）
+    #{id}： 从传递过来的参数中取出id值-->
+<mapper namespace="mybatis.dao.EmployeeMapper">
+<!--   eviction:缓存回收策略：LRU(默认),FIFO等
+       flushInterval: 缓存刷新间隔（单位ms）
+                        缓存多长时间清空一次，默认不清空
+       readOnly:是否只读
+                true: 只读：mybatis认为所有操作均为只读，不会修改数据
+                           因此，为了加快获取速度，直接将数据在缓存中的引用交给用户
+                false:非只读（默认）：mybatis认为被获取的数据可能会被修改
+                             因此，利用序列化&反序列化技术克隆一份新的数据给用户
+        size: 缓存存放多少元素
+        type: 指定自定义缓存的全类名
+                实现Cache接口-->
+<!--    <cache eviction="FIFO" flushInterval="60000" readOnly="false" size="1024"></cache>-->
+<cache type="org.mybatis.caches.ehcache.EhcacheCache"></cache>
+
+
+
+<!--    该select标签相当于对应接口中的函数的实现
+         resultType字段可以使用全局配置文件中配置的别名-->
+    <select id="getEmpById" resultType="jc" useCache="true">
+    select * from tb_employee where id = #{id}
+  </select>
+
+<!--        public void addEmp(Employee employee);
+            parameterType：可省略，要写就写bean全类名-->
+
+<!--    利用useGeneratedKeys="true"：返回自增的主键值
+        keyProperty：将获取的主键值封装给javabean的对应属性-->
+<insert id="addEmp" parameterType="mybatis.bean.Employee" useGeneratedKeys="true" keyProperty="id">
+    insert into tb_employee(last_name, gender, email) values(#{lastName},#{gender},#{email})
+</insert>
+
+<!--        public void updateEmp(Employee employee);-->
+    <update id="updateEmp">
+        update tb_employee set last_name=#{lastName},email=#{email},gender=#{gender} where id=#{id}
+    </update>
+
+<!--        public void deleteEmpByid(Integer id);-->
+    <delete id="deleteEmpById">
+        delete from tb_employee where id=#{id}
+    </delete>
+
+    <select id="getEmpByIdAndName" resultType="jc">
+        select * from tb_employee where id=#{id} and last_name=#{last_name}
+    </select>
+
+    <select id="getEmpsByName" resultType="jc">
+            select * from tb_employee where last_name like #{lastName}
+    </select>
+</mapper>

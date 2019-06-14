@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="mybatis.dao.EmployeeMapperPlus">
+
+<!--    自定义某个javabean的封装规则
+            type：自定义规则的java类型
+            id: 唯一，方便引用-->
+    <resultMap id="MyEmp" type="mybatis.bean.Employee">
+<!--        指定主键列的封装规则，用id，其他用result
+                column: 指定表中哪一列
+                property: 指定对应的javabean属性-->
+        <id column="id" property="id"/>
+<!--        定义普通列封装规则-->
+        <result column="last_name" property="lastName"/>
+<!--        其他不指定的列会自动封装，推荐写上-->
+        <result column="email" property="email"/>
+        <result column="gender" property="gender"/>
+    </resultMap>
+
+<!--    resultMap: 自定义结果集映射规则-->
+<!--    public Employee getEmpById(Integer id);-->
+    <select id="getEmpById" resultMap="MyEmpDisc">
+        select * from tb_employee where id=#{id}
+    </select>
+
+<!--    场景一：
+            查询Employee同时查出对应部门
+        联合查询：级联属性封装结果集-->
+    <resultMap id="myDifEmp" type="mybatis.bean.Employee">
+        <id column="id" property="id"/>
+        <result column="last_name" property="lastName"/>
+        <result column="gender" property="gender"/>
+        <result column="did" property="dept.id"/>
+        <result column="
+        dept_name" property="dept.deptName"/>
+    </resultMap>
+    <resultMap id="myDifEmp2" type="mybatis.bean.Employee">
+        <id column="id" property="id"/>
+        <result column="last_name" property="lastName"/>
+        <result column="gender" property="gender"/>
+<!--        association可以指定联合的javabean对象
+                property： 指定哪个属性是联合对象
+                javaType:  指定属性对象的类型-->
+        <association property="dept" javaType="mybatis.bean.Department">
+            <id column="did" property="id"/>
+            <result column="dept_name" property="deptName"/>
+        </association>
+    </resultMap>
+    <!--        public Employee getEmpAndDept(Integer id);-->
+
+    <select id="getEmpAndDept" resultMap="myDifEmp2">
+        select e.id id,e.last_name last_name,e.gender gender,e.d_id d_id,d.id did,d.dept_name dept_name from tb_employee e,tb_dept d
+where e.d_id = d.id and e.d_id=#{id};
+    </select>
+
+<!--        public List<Employee> getEmpsByDeptId(Integer deptId);-->
+    <select id="getEmpsByDeptId" resultType="mybatis.bean.Employee">
+        select * from tb_employee where d_id=#{id}
+    </select>
+
+
+<!--    <disciminator>鉴别器
+            用来判断查出的某列的值，据此采取不同的封装或行为
+            如：查出是女生，就把部门信息也查询出来
+                查出是男生，就把last_name这一列赋值给email-->
+    <resultMap id="MyEmpDisc" type="mybatis.bean.Employee">
+        <id column="id" property="id"/>
+        <result column="last_name" property="lastName"/>
+        <result column="gender" property="gender"/>
+        <result column="email" property="email"/>
+<!--        column: 指定要判定的列名
+            javaType: 列值对应的java类型-->
+        <discriminator javaType="string" column="gender">
+<!--            女生-->
+            <case value="0" resultType="mybatis.bean.Employee">
+                <association property="dept"
+                            select="mybatis.dao.DepartmentMapper.getDeptById"
+                            column="d_id">
+                </association>
+            </case>
+<!--            男生-->
+            <case value="1" resultType="mybatis.bean.Employee">
+                <id column="id" property="id"/>
+                <result column="last_name" property="lastName"/>
+                <result column="gender" property="gender"/>
+                <result column="last_name" property="email"/>
+            </case>
+        </discriminator>
+    </resultMap>
+
+
+</mapper>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    p标签注入属性-->
+    <bean id="Person" class="f_setter_invasion.Person"
+            p:age="20" p:pname="奕杉"
+            p:compAddr-ref="CompAddress"
+            p:homeAddr-ref="HomeAddress">
+<!--        注意注入引用要用-ref="-->
+    </bean>
+
+<!--引用类属性注入需要先获取引用的对象，所以先将相应属性注入引用对象-->
+    <bean id="HomeAddress" class="f_setter_invasion.Address"
+            p:addr="郫县"
+            p:tel="111">
+    </bean>
+    <bean id="CompAddress" class="f_setter_invasion.Address"
+            p:addr="成都"
+            p:tel="222">
+    </bean>
+</beans>

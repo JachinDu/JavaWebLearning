@@ -1,0 +1,17 @@
+<!-- 03.contact.xml -->
+<!-- <?xml version="1.0" encoding="utf-8"?> -->
+<contactList>
+    <contact id="001">
+        <name>章三</name>
+        <age>20</age>
+        <phone>333333333</phone>
+        <email>kjofjw@jidja.com</email>
+    </contact>
+    <contact id="002">
+        <name>李四</name>
+        <age>24</age>
+        <phone>222344555</phone>
+        <email>2323222@11.com</email>
+    </contact>
+    <abc></abc>
+</contactList>

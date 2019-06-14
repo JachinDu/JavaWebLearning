@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/aop
+                           http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+
+<!--    创建目标类-->
+    <bean id="userService" class="d_aspect.a_xml.UserServiceImpl"></bean>
+
+<!--    创建切面类-->
+    <bean id="myAspect" class="d_aspect.a_xml.MyAspect"></bean>
+
+<!--aop编程
+    <aop:aspect ref="myAspect"></aop:aspect>拿到切面类，获得里面的所有通知（方法）
+        <aop:pointcut > 声明一个切入点，所有通知都可以使用-->
+
+    <aop:config>
+        <aop:aspect ref="myAspect">
+            <aop:pointcut id="myPointCut" expression="execution(* d_aspect.a_xml.UserServiceImpl.*(..))"/>
+<!--            1.前置通知
+                    <aop:before method="" pointcut="" pointcut-ref=""/>
+                        method：通知，即方法名
+                        pointcut：切入点表达式（仅限当前通知使用）
+                        pointcut-ref：切入点引用，可以与其他通知共享切入点-->
+<!--            <aop:before method="myBefore" pointcut-ref="myPointCut"/>-->
+<!--            2.后置通知
+                  目标方法后执行，获得返回值
+                                returning：通知方法第二个参数名称,如下的ret
+                                public void myAfterRetruning(JoinPoint joinPoint,Object ret)-->
+<!--            <aop:after-returning method="myAfterRetruning" pointcut-ref="myPointCut" returning="ret"/>-->
+
+<!--            3.环绕通知-->
+<!--            <aop:around method="myAround" pointcut-ref="myPointCut"/>-->
+
+<!--            4.抛出异常通知
+                    throwing： 通知方法的第二个参数名称-->
+            <aop:after-throwing method="myAfterThrowing" pointcut-ref="myPointCut" throwing="e"/>
+
+<!--            5.最终通知-->
+            <aop:after method="myAfter" pointcut-ref="myPointCut"/>
+        </aop:aspect>
+    </aop:config>
+
+
+
+</beans>

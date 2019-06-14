@@ -1,0 +1,6 @@
+<!ELEMENT note (from,to,heading,body)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ATTLIST to name CDATA #FIXED "abc">

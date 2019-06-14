@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    集合的注入都是给<property>添加子标签
+        数组: <array>
+        List: <list>
+        Set: <set>
+        Map: <map>
+        Properties: <props>
+
+        普通数据: <value>
+        引用数据: <ref>-->
+    <bean id="collData" class="g_collection_invasion.CollData">
+        <property name="arrayData">
+            <array>
+                <value>A1</value>
+                <value>A2</value>
+                <value>A3</value>
+            </array>
+        </property>
+
+        <property name="listData">
+            <list>
+                <value>L1</value>
+                <value>L2</value>
+                <value>L3</value>
+            </list>
+        </property>
+
+        <property name="setData">
+            <set>
+                <value>S1</value>
+                <value>S2</value>
+                <value>S3</value>
+            </set>
+        </property>
+
+        <property name="mapData">
+            <map>
+                <entry key="jack" value="捷克"></entry>
+                <entry key="rose" value="肉丝"></entry>
+            </map>
+        </property>
+
+        <property name="properties">
+            <props>
+<!--                value值在标签体内1-->
+                <prop key="高富帅">1</prop>
+                <prop key="白富美">1</prop>
+                <prop key="男屌丝">1</prop>
+            </props>
+        </property>
+    </bean>
+
+</beans>

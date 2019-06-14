@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE note SYSTEM "/Users/jc/IdeaProjects/day08/src/day8_dtd/note.dtd">
+<note>
+    <from>Jani</from>
+    <to>Tove</to>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend</body>
+</note>

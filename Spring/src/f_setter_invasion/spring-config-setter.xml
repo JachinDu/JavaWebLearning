@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    setter注入属性-->
+    <bean id="Person" class="f_setter_invasion.Person">
+        <property name="age" value="20"></property>
+        <property name="pname">
+            <value>Jachin</value>
+        </property>
+
+<!--引用类属性的注入-->
+        <property name="compAddr" ref="CompAddress"></property>
+        <property name="homeAddr" ref="HomeAddress"/>
+    </bean>
+
+<!--引用类属性注入需要先获取引用的对象，所以先将相应属性注入引用对象-->
+    <bean id="HomeAddress" class="f_setter_invasion.Address">
+        <property name="addr" value="呼和浩特"></property>
+        <property name="tel" value="110"/>
+    </bean>
+    <bean id="CompAddress" class="f_setter_invasion.Address">
+        <property name="addr" value="成都"></property>
+        <property name="tel" value="119"/>
+    </bean>
+</beans>
