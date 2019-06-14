@@ -1,5 +1,7 @@
 package controller;
 
+import com.sun.jersey.api.client.Client;
+import com.sun.jersey.api.client.WebResource;
 import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.FileUploadException;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
@@ -69,6 +71,7 @@ public class UserController {
         //使用fileupload组件完成文件上传
         //上传的位置
         String realPath = request.getSession().getServletContext().getRealPath("/uploads/");
+        System.out.println(realPath);
         //判断该路径是否存在
         File file = new File(realPath);
         if (!file.exists()) {
@@ -84,6 +87,33 @@ public class UserController {
         filename = uuid + "_" + filename;
         //上传
         upload.transferTo(new File(realPath,filename));
+
+        return "success";
+    }
+
+    /*
+     * springmvc跨服务器文件上传
+     * MultipartFile类型参数名称必须和表单中上传文件框中的name属性的名称一样
+     * */
+    @RequestMapping("/fileupload3")
+    public String fileupload3(MultipartFile upload) throws Exception {
+        System.out.println("springmvc跨服务器文件上传");
+        //定义上传服务器路径
+        String path = "http://localhost:9090/uploads/";
+
+        //说明是上传文件项
+        //获取上传文件名称
+        String filename = upload.getOriginalFilename();
+        //把文件名设置成唯一值,以便上传相同文件名称不覆盖
+        String uuid = UUID.randomUUID().toString().replace("-", "");
+        filename = uuid + "_" + filename;
+
+        //创建客户端的对象
+        Client client = Client.create();
+        //和图片服务器连接
+        WebResource webResource = client.resource(path + filename);  //上面的服务器路径如果最后没有/，则这里要拼进去/
+        //跨服务器上传
+        webResource.put(upload.getBytes());
 
         return "success";
     }
