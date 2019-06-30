@@ -1,0 +1,11 @@
+2019-06-25 15:19:30.931  INFO 58813 --- [main] s.SpringbootDay02LoggingApplicationTests : Starting SpringbootDay02LoggingApplicationTests on dujiachengdeMacBook-Pro.local with PID 58813 (started by jc in /Users/jc/IdeaProjects/springboot/springboot-day02-logging)
+2019-06-25 15:19:30.932 DEBUG 58813 --- [main] s.SpringbootDay02LoggingApplicationTests : Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-06-25 15:19:30.933  INFO 58813 --- [main] s.SpringbootDay02LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2019-06-25 15:19:32.164  INFO 58813 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-25 15:19:32.415  INFO 58813 --- [main] s.SpringbootDay02LoggingApplicationTests : Started SpringbootDay02LoggingApplicationTests in 1.995 seconds (JVM running for 2.898)
+2019-06-25 15:19:32.570 TRACE 58813 --- [main] s.SpringbootDay02LoggingApplicationTests : 这是trace日志。。。
+2019-06-25 15:19:32.571 DEBUG 58813 --- [main] s.SpringbootDay02LoggingApplicationTests : 这是debug日志。。。
+2019-06-25 15:19:32.571  INFO 58813 --- [main] s.SpringbootDay02LoggingApplicationTests : 这是info。。。
+2019-06-25 15:19:32.571  WARN 58813 --- [main] s.SpringbootDay02LoggingApplicationTests : 这是warn...
+2019-06-25 15:19:32.571 ERROR 58813 --- [main] s.SpringbootDay02LoggingApplicationTests : 这是error。。。
+2019-06-25 15:19:32.577  INFO 58813 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

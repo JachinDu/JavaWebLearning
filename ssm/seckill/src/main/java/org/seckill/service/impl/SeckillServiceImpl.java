@@ -174,9 +174,11 @@ public class SeckillServiceImpl implements SeckillService {
                 SuccessKilled sk = successKilledDao.queryByIdWithSeckill(seckillId, userPhone);
                 return new SeckillExecution(seckillId, SeckillStateEnum.SUCCESS, sk);
             } else {
+                //异常抛出都省了
                 return new SeckillExecution(seckillId, SeckillStateEnum.stateOf(result));
             }
         } catch (Exception e) {
+//            throw new RuntimeException(e);
             logger.error(e.getMessage(), e);
             return new SeckillExecution(seckillId, SeckillStateEnum.INNER_ERROR);
 

@@ -6,13 +6,13 @@ var  seckill = {
     //封装秒杀相关ajax的url
     URL: {
         now : function () {
-            return '/seckill/time/now';
+            return '/uestc/seckill/time/now';
         },
         exposer : function (seckillId) {
-            return '/seckill/' + seckillId + '/exposer';
+            return '/uestc/seckill/' + seckillId + '/exposer';
         },
         execution : function (seckillId,md5) {
-            return '/seckill/'+seckillId+'/'+md5+'/execution';
+            return '/uestc/seckill/'+seckillId+'/'+md5+'/execution';
         }
     },
 
@@ -43,11 +43,9 @@ var  seckill = {
                         //1.先禁用按钮,灰色，也是提示用户只能点击一次
                         $(this).addClass('disabled');
                         //2.发送秒杀请求
-                        console.log("1111111111111:");
 
                         $.post(killUrl,{},function (result) {
 
-                            console.log("kkklsllslslslsl:");
 
                             if (result && result['success']) {
 
@@ -148,7 +146,7 @@ var  seckill = {
                     if (seckill.validatePhone(inputPhone)) {
 
                         //电话写入cookie,7天，仅在/seckill下有效
-                        $.cookie('killPhone', inputPhone, {expires: 7, path: '/seckill'});
+                        $.cookie('killPhone', inputPhone, {expires: 7, path: '/uestc/seckill'});
 
                         //刷新页面
                         window.location.reload();

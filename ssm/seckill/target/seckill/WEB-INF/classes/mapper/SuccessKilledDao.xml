@@ -9,6 +9,8 @@
         values (#{seckillId},#{userPhone},0)
     </insert>
 
+
+
     <select id="queryByIdWithSeckill" resultType="SuccessKilled">
         <!-- 根据id查询SuccessKilled并携带秒杀商品对象
              同时将结果映射到seckill属性，联合查询-->
