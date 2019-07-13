@@ -1,0 +1,67 @@
+spring:
+
+  jpa:
+    #    底层是hibernate
+    hibernate:
+      #      更新或创建数据表
+      ddl-auto: update
+
+      #jpa对实体类的默认字段会把驼峰命名的属性，转换为字段名的时候自动加上下划线。 这个配置的作用就是去掉下划线
+      #比如属性名称是 createDate, jpa 默认转换为字段名 create_Date。 有了这个配置之后，就会转换为同名字段 createDate
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+
+    #   控制台显示sql
+    show-sql: true
+
+
+  datasource:
+    username: root
+    password: 5774857
+    url: jdbc:mysql://47.106.201.54:3306/tmall_springboot
+#    url: jdbc:mysql://localhost:3306/tmall_springboot
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource  #指定数据源（先配好依赖）
+
+    #数据源其他配置
+    initialSize: 5
+    minIdle: 5
+    maxActive: 20
+    maxWait: 60000
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: SELECT 1 FROM DUAL
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    poolPreparedStatements: true
+    #   配置监控统计拦截的filters，去掉后监控界面sql无法统计，'wall'用于防火墙
+    filters: stat,wall,log4j
+    maxPoolPreparedStatementPerConnectionSize: 20
+    useGlobalDataSourceStat: true
+    connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+
+# 其中LEGACYHTML5表示经典html5模式，即允许非严格的html出现，元素少点什么也可以编译通过， 这个比较符合大家的编写习惯，太过严格的html，写起来累。
+# cache=false 表示不要缓存，以免在开发过程中因为停留在缓存而给开发人员带来困扰。
+  thymeleaf:
+    mode: HTML
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+    cache: true
+  http:
+
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+  mvc:
+    static-path-pattern: /**
+
+
+
+server:
+  servlet:
+    context-path: /tmall_springboot
+
+
