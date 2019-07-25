@@ -1,0 +1,7 @@
+2019-07-16 11:40:58.553  INFO 60066 --- [main] com.jachin.sell.LoggerTest               : Starting LoggerTest on dujiachengdeMacBook-Pro.local with PID 60066 (started by jc in /Users/jc/IdeaProjects/springboot/sell)
+2019-07-16 11:40:58.561  INFO 60066 --- [main] com.jachin.sell.LoggerTest               : No active profile set, falling back to default profiles: default
+2019-07-16 11:40:59.945  INFO 60066 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-16 11:41:00.189  INFO 60066 --- [main] com.jachin.sell.LoggerTest               : Started LoggerTest in 2.356 seconds (JVM running for 3.153)
+2019-07-16 11:41:00.359  INFO 60066 --- [main] com.jachin.sell.LoggerTest               : info....
+2019-07-16 11:41:00.359 ERROR 60066 --- [main] com.jachin.sell.LoggerTest               : error...
+2019-07-16 11:41:00.364  INFO 60066 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

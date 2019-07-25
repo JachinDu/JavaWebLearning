@@ -1,0 +1,426 @@
+Starting SellApplication on dujiachengdeMBP.lan with PID 7935 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 80ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e24476b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1501 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 5.488 seconds (JVM running for 6.018)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 7957 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 68ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7ab8d897] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1234 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.067 seconds (JVM running for 4.501)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 7971 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 63ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$94917b0d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1227 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.162 seconds (JVM running for 4.642)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 7976 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 68ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$17f36ee5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1303 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.537 seconds (JVM running for 5.063)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m5s325ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HikariPool-1 - Connection com.mysql.cj.jdbc.ConnectionImpl@4842e1c6 marked as broken because of SQLSTATE(08007), ErrorCode(0)
+java.sql.SQLNonTransientConnectionException: Communications link failure during rollback(). Transaction resolution unknown.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.ConnectionImpl.rollback(ConnectionImpl.java:1866)
+	at com.zaxxer.hikari.pool.ProxyConnection.rollback(ProxyConnection.java:370)
+	at com.zaxxer.hikari.pool.HikariProxyConnection.rollback(HikariProxyConnection.java)
+	at org.hibernate.resource.jdbc.internal.AbstractLogicalConnectionImplementor.rollback(AbstractLogicalConnectionImplementor.java:116)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.rollback(JdbcResourceLocalTransactionCoordinatorImpl.java:294)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.rollback(TransactionImpl.java:145)
+	at org.springframework.orm.jpa.JpaTransactionManager.doRollback(JpaTransactionManager.java:559)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processRollback(AbstractPlatformTransactionManager.java:838)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.rollback(AbstractPlatformTransactionManager.java:812)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.completeTransactionAfterThrowing(TransactionAspectSupport.java:552)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:299)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.jachin.sell.service.impl.OrderServiceImpl$$EnhancerBySpringCGLIB$$7a940c5a.create(<generated>)
+	at com.jachin.sell.controller.BuyerOrderController.create(BuyerOrderController.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Starting SellApplication on dujiachengdeMBP.lan with PID 7979 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 87ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$359ba74] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1396 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 5.087 seconds (JVM running for 5.741)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57s209ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@478d0ff8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: null
+Starting SellApplication on dujiachengdeMBP.lan with PID 7984 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 104ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f97b22f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1427 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.844 seconds (JVM running for 5.449)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s120ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m17s516ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HikariPool-1 - Connection com.mysql.cj.jdbc.ConnectionImpl@70f5bb36 marked as broken because of SQLSTATE(08007), ErrorCode(0)
+java.sql.SQLNonTransientConnectionException: Communications link failure during rollback(). Transaction resolution unknown.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.ConnectionImpl.rollback(ConnectionImpl.java:1866)
+	at com.zaxxer.hikari.pool.ProxyConnection.rollback(ProxyConnection.java:370)
+	at com.zaxxer.hikari.pool.HikariProxyConnection.rollback(HikariProxyConnection.java)
+	at org.hibernate.resource.jdbc.internal.AbstractLogicalConnectionImplementor.rollback(AbstractLogicalConnectionImplementor.java:116)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.rollback(JdbcResourceLocalTransactionCoordinatorImpl.java:294)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.rollback(TransactionImpl.java:145)
+	at org.springframework.orm.jpa.JpaTransactionManager.doRollback(JpaTransactionManager.java:559)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processRollback(AbstractPlatformTransactionManager.java:838)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.rollback(AbstractPlatformTransactionManager.java:812)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.completeTransactionAfterThrowing(TransactionAspectSupport.java:552)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:299)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.jachin.sell.service.impl.OrderServiceImpl$$EnhancerBySpringCGLIB$$1f74bd3a.create(<generated>)
+	at com.jachin.sell.controller.BuyerOrderController.create(BuyerOrderController.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Starting SellApplication on dujiachengdeMBP.lan with PID 7988 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 121ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6be9fc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1487 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.989 seconds (JVM running for 5.535)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m32s519ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s963ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@682b935b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: null
+Starting SellApplication on dujiachengdeMBP.lan with PID 8024 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 64ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e8f552f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1321 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.174 seconds (JVM running for 4.661)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m30s165ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m24s227ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s241ms).

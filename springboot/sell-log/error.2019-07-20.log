@@ -1,0 +1,4 @@
+Column 'create_time' cannot be null
+HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+Column 'create_time' cannot be null
+HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]

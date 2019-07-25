@@ -1,0 +1,543 @@
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h26s892ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h28s346ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h31m37s666ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s494ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s801ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s105ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s431ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s223ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s207ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s319ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s301ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s506ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s214ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s499ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s498ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s986ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s338ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s444ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m50s562ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 8983 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 79ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$42357030] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1304 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.341 seconds (JVM running for 4.801)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 8989 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 80ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$88102825] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1393 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.886 seconds (JVM running for 5.554)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 8993 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 67ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7a8716c0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1303 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.64 seconds (JVM running for 5.21)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50s189ms).
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HikariPool-2 - Starting...
+HikariPool-2 - Start completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 8997 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 78ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$869d033e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1325 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.707 seconds (JVM running for 5.349)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9000 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 83ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$60ee40e9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1356 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.681 seconds (JVM running for 5.227)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9004 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 73ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5455613] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1336 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.766 seconds (JVM running for 5.297)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m29s610ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9008 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 74ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$96070ecf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1303 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.7 seconds (JVM running for 5.301)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m18s254ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9013 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 94ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ce393ee6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1378 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.789 seconds (JVM running for 5.327)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48s416ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9016 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 77ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a4549125] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1415 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.776 seconds (JVM running for 5.405)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9046 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 61ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$353000b4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1311 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.216 seconds (JVM running for 4.75)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9079 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 64ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ac306c5a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1272 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.023 seconds (JVM running for 4.481)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9095 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 81ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$33b767ac] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1365 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.343 seconds (JVM running for 4.821)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9125 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 60ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$787beb73] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1159 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.885 seconds (JVM running for 4.336)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9169 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 72ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$52c79570] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1270 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.161 seconds (JVM running for 4.619)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMBP.lan with PID 9194 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 66ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$41fa25a4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1305 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.235 seconds (JVM running for 4.665)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s617ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s593ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m17s775ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s48ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s824ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s305ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s512ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s997ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s233ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s571ms).

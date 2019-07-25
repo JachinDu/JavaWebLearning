@@ -1,0 +1,4 @@
+【取消订单】订单状态不正确，不可取消，orderId=1563773856498477044,orderStatus=0
+【取消订单】订单状态不正确，不可取消，orderId=1563773856498477044,orderStatus=2
+【订单支付完成】订单状态不正确，orderId=1563773856498477044, orderStatus=1
+【订单支付完成】订单支付状态不正确，orderDTO=OrderDTO(orderId=1563773856498477044, buyerName=乐乐, buyerPhone=13333333333, buyerAddress=英郡, buyerOpenid=110110, orderAmount=20669.60, orderStatus=0, payStatus=1, createTime=2019-07-22 13:37:39.0, updateTime=2019-07-22 16:41:54.0, orderDetailList=[OrderDetail(detailId=1563773856600890324, orderId=1563773856498477044, productId=1234, productName=皮蛋粥, productPrice=3.20, productQuantity=1, productIcon=http://xxxxx.jpg), OrderDetail(detailId=1563773856712328057, orderId=1563773856498477044, productId=311, productName=冰箱, productPrice=10333.20, productQuantity=2, productIcon=http://xxxxx.jpg)])

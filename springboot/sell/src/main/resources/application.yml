@@ -1,0 +1,25 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: wechat.food
+    password: 5774857
+    url: jdbc:mysql://39.106.177.45/sell?characterEncoding=utf-8&useTimezone=true&serverTimezone=GMT%2B8&useSSL=false
+  jpa:
+    show-sql: true
+  jackson:
+    default-property-inclusion: non_null
+  http:
+    encoding:
+      charset: UTF-8
+server:
+  servlet:
+    context-path: /sell
+#logging:
+#  pattern:
+#    console: "%d - %msg%n"   # 配置控制台输出格式：%d：日期；%msg：信息；%n：换行
+##  path: /Users/jc/IdeaProjects/springboot/sell-log  # 日志文件名称固定为spring.log
+#  file: /Users/jc/IdeaProjects/springboot/sell-log/sell.log  # 配置指定名称的日志文件
+#  level:
+#    com.jachin.sell.LoggerTest: debug   # 指定某类的日志输出级别
+#
+##  level: debug  # 指定统一日志输出级别
