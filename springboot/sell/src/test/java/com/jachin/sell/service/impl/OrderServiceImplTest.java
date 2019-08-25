@@ -29,13 +29,13 @@ public class OrderServiceImplTest {
     private OrderServiceImpl orderService;
 
     private final String BUYER_OPENID = "110110";
-    private final String ORDER_ID = "1563773856498477044";
+    private final String ORDER_ID = "1563773856498477033";
 
     @Test
     public void create() {
         OrderDTO orderDTO = new OrderDTO();
         orderDTO.setBuyerAddress("英郡");
-        orderDTO.setBuyerName("乐乐");
+        orderDTO.setBuyerName("果果嘉诚");
         orderDTO.setBuyerPhone("13333333333");
         orderDTO.setBuyerOpenid(BUYER_OPENID);
 
@@ -93,5 +93,13 @@ public class OrderServiceImplTest {
         OrderDTO orderDTO = orderService.findOne(ORDER_ID);
         OrderDTO result = orderService.paid(orderDTO);
         Assert.assertEquals(PayStatusEnum.SUCCESS.getCode(),result.getPayStatus());
+    }
+
+    @Test
+    public void list() {
+        Pageable pageable = PageRequest.of(0, 2);
+        Page<OrderDTO> orderDTOPage = orderService.findList(pageable);
+        Assert.assertNotEquals(0,orderDTOPage.getTotalElements());
+
     }
 }

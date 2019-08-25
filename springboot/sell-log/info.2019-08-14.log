@@ -1,0 +1,1421 @@
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s335ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s222ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s434ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s213ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s263ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s286ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s550ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s339ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s689ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s321ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s210ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s411ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m40s961ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s534ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s821ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s917ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s597ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s91ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s528ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s867ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s248ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s294ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s367ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s86ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s168ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s511ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s478ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s359ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s588ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s617ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s385ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s292ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s552ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s785ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s26ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s57ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s944ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s495ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s504ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s836ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s83ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s640ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m50s824ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m53s431ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s346ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s261ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s298ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s471ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s326ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s330ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s123ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s180ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m2s514ms).
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@41ab0a02 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6ba369f6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@31d16008 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4f20e636 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5e35eef5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@71fa77b0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: 08003
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@68150d39 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@62ed6649 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@67535971 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1f5420d1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1563769911696261783",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 491
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>wfX7SxIiiserLIl2</nonce_str>
+   <sign>6876FC5E1ABA90066962DC8B9BBD708F</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>oTgZpwTykQPhdjiI8rWYEgXjWhI8</openid>
+   <out_trade_no>1563769911696261783</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>1</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (491-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (349ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 00:58:48 GMT
+Content-Type: text/plain
+Content-Length: 456
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxd898fcb01713c658]]></appid>
+<mch_id><![CDATA[1483469312]]></mch_id>
+<nonce_str><![CDATA[c6Azdf8Wf3p612UZ]]></nonce_str>
+<sign><![CDATA[850CC58474BC074CB37B62F44247D48C]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx140858485799496bf9339a1a1451707300]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+<-- END HTTP (456-byte body)
+【微信支付】response={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1565744351",
+  "nonceStr": "ii0qZCo7KvhKhNMb",
+  "packAge": "prepay_id\u003dwx140858485799496bf9339a1a1451707300",
+  "signType": "MD5",
+  "paySign": "CAC84D45925EA11AFAA0C0935A6EC37B"
+}
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1563769911696261783",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 491
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>HA175cguBZFSAOdC</nonce_str>
+   <sign>2505E1CCE364497DA87686C772BFB0A1</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>oTgZpwTykQPhdjiI8rWYEgXjWhI8</openid>
+   <out_trade_no>1563769911696261783</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>1</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (491-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (341ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 01:02:21 GMT
+Content-Type: text/plain
+Content-Length: 456
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxd898fcb01713c658]]></appid>
+<mch_id><![CDATA[1483469312]]></mch_id>
+<nonce_str><![CDATA[pJxZ0LjnzUflHEkI]]></nonce_str>
+<sign><![CDATA[FC7B8C89D918FAA26E6B675919F135F0]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx140902216078326bf9339a1a1285453600]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+<-- END HTTP (456-byte body)
+【微信支付】response={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1565744564",
+  "nonceStr": "797EMNity2kdf9v8",
+  "packAge": "prepay_id\u003dwx140902216078326bf9339a1a1285453600",
+  "signType": "MD5",
+  "paySign": "F1851344F93C5E1ADB2DEB20A04585E7"
+}
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1563769911696261783",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 491
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>Ae4KpUuGGRAhABML</nonce_str>
+   <sign>86CE394D2DBD78D82B03D5E499B82E60</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>oTgZpwTykQPhdjiI8rWYEgXjWhI8</openid>
+   <out_trade_no>1563769911696261783</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>1</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (491-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (364ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 01:02:45 GMT
+Content-Type: text/plain
+Content-Length: 456
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxd898fcb01713c658]]></appid>
+<mch_id><![CDATA[1483469312]]></mch_id>
+<nonce_str><![CDATA[d88krYZSPTTqRGvk]]></nonce_str>
+<sign><![CDATA[38236C340CA9EEE2EF70A133D43C627F]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx140902456158846bf9339a1a1591478300]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+<-- END HTTP (456-byte body)
+【微信支付】response={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1565744588",
+  "nonceStr": "0UqXAIXQzxhPOfCT",
+  "packAge": "prepay_id\u003dwx140902456158846bf9339a1a1591478300",
+  "signType": "MD5",
+  "paySign": "F14E62B5AB0D391A321137F33A004654"
+}
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@53e851eb (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@720c80a3 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5fd68c6e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5a49548 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@27c9848f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4d266b48 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: 08003
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3fefb897 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4f1ef593 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1615d2b8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@686615d8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25609 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8f17572a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1439 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 5.134 seconds (JVM running for 6.094)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1563769911696261783",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 491
+
+<xml>
+   <appid>wxdb89807d80cfc463</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>RJQHrGLBtfPrg3zf</nonce_str>
+   <sign>52CCA58EC34EBC6DAE3FB78E9A427FE2</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>oTgZpwTykQPhdjiI8rWYEgXjWhI8</openid>
+   <out_trade_no>1563769911696261783</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>1</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (491-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (370ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 02:30:52 GMT
+Content-Type: text/plain
+Content-Length: 116
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[appid和mch_id不匹配]]></return_msg>
+</xml>
+<-- END HTTP (116-byte body)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25616 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 76ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d98e107] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1289 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.511 seconds (JVM running for 5.278)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25628 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 82ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$84270213] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1330 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.438 seconds (JVM running for 5.219)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25641 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 71ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b8c11223] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1203 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.206 seconds (JVM running for 4.928)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25650 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 71ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$819e6851] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1184 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 5.284 seconds (JVM running for 6.046)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25656 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 88ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$375c196a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1507 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 5.291 seconds (JVM running for 5.978)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HHH000397: Using ASTQueryTranslatorFactory
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b2a07ee (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3c0c7c73 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3a2c036b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@34deeadd (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3833ef2a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3e1390f6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3fc09edf (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7d317648 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7b110950 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5fcbe708 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@11880ea4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@66f09055 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@31c4486a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@231badfa (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6a39ec5c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@19268ebf (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2d0780f5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@32a7727d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@419c7959 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4f97df38 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m1s116ms).
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1563769911696261783",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6c0ae668 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Shutdown completed.
+SQL Error: 0, SQLState: null
+HikariPool-2 - Starting...
+HikariPool-2 - Start completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25697 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 73ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$886f9078] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1171 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.086 seconds (JVM running for 4.748)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2f7e0afc (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2a65aa45 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@19a91e6b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@11c163e3 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@46dfce48 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6a906606 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@346dfef1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5c7d84e9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4cccdb59 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b4d3aa1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25702 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5a23738f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1449 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.923 seconds (JVM running for 5.563)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25813 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 70ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6330f4a8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1286 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.925 seconds (JVM running for 5.491)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565755372032200445",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 0
+
+
+--> END POST (0-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (267ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 04:02:50 GMT
+Content-Type: text/plain
+Content-Length: 107
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[post数据为空]]></return_msg></xml>
+<-- END HTTP (107-byte body)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25816 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 71ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8d68f012] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1257 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.901 seconds (JVM running for 4.344)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565755415531496217",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 0
+
+
+--> END POST (0-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (238ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 04:03:14 GMT
+Content-Type: text/plain
+Content-Length: 107
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[post数据为空]]></return_msg></xml>
+<-- END HTTP (107-byte body)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25822 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 62ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b34d2869] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1133 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.951 seconds (JVM running for 4.642)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565755564693638578",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 0
+
+
+--> END POST (0-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (284ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 04:05:43 GMT
+Content-Type: text/plain
+Content-Length: 107
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[post数据为空]]></return_msg></xml>
+<-- END HTTP (107-byte body)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25826 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 59ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e188f483] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1175 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.03 seconds (JVM running for 4.714)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565755727486868872",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 491
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>qDyeCmuIpynUxN75</nonce_str>
+   <sign>054CCCB89D40FA4912AE8EE56477D82B</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>oTgZpwTykQPhdjiI8rWYEgXjWhI8</openid>
+   <out_trade_no>1565755727486868872</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>1</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (491-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (400ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 04:08:56 GMT
+Content-Type: text/plain
+Content-Length: 456
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxd898fcb01713c658]]></appid>
+<mch_id><![CDATA[1483469312]]></mch_id>
+<nonce_str><![CDATA[Ftbq70PnvHSDytez]]></nonce_str>
+<sign><![CDATA[79B5F132C1A60B982BB76470765657BB]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx141208565586779816ce8c4b1867821300]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+<-- END HTTP (456-byte body)
+【微信支付】response={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1565755759",
+  "nonceStr": "hcF9wfm2apOXAdOO",
+  "packAge": "prepay_id\u003dwx141208565586779816ce8c4b1867821300",
+  "signType": "MD5",
+  "paySign": "260A0672E8B2B34737D741A88C9CC265"
+}
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47s900ms).
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4ae9b5ea (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1c5e36ac (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@ef38e7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@40306673 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: 08003
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m36s224ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25850 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 76ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bfe8e95] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1442 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 5.291 seconds (JVM running for 5.917)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HHH000397: Using ASTQueryTranslatorFactory
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m32s219ms).
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565756624206103948",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+【微信支付】response={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1565756689",
+  "nonceStr": "Mplq0JtGZfG0kTqU",
+  "packAge": "prepay_id\u003dwx14122425915458e7d32e40ea1537629200",
+  "signType": "MD5",
+  "paySign": "4FEE81509581F62477AD3EAE8B30AD27"
+}
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 25856 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$96e315d5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1192 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.126 seconds (JVM running for 4.83)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565756722662931929",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 491
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>WgaQHRyTIgYyD50L</nonce_str>
+   <sign>D0919BC4B307D9CD880823B3815B4E9A</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>oTgZpwTykQPhdjiI8rWYEgXjWhI8</openid>
+   <out_trade_no>1565756722662931929</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>1</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (491-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (389ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 04:25:00 GMT
+Content-Type: text/plain
+Content-Length: 456
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxd898fcb01713c658]]></appid>
+<mch_id><![CDATA[1483469312]]></mch_id>
+<nonce_str><![CDATA[elGd3zIS2lPR8sLJ]]></nonce_str>
+<sign><![CDATA[FCCBA1B19E6800839321F9B290C30FEA]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx14122500714013cabfd9d2bc1204058500]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+<-- END HTTP (456-byte body)
+【微信支付】response={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1565756723",
+  "nonceStr": "7SRve0PfkJatm6Ln",
+  "packAge": "prepay_id\u003dwx14122500714013cabfd9d2bc1204058500",
+  "signType": "MD5",
+  "paySign": "EDFD548814851F60C4F0890AB72B86E3"
+}
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@67a4ebd (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2f8efdf (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6c706b8f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@af3459e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@29eb6a8c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@70b09968 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: 08003
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6957c912 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@63afa262 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@71e562ed (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@963d8db (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565756722662931929",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 491
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>vFL6u9pF9kgTY2fo</nonce_str>
+   <sign>D3D1A150309D55A9539A925131923AF0</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>oTgZpwTykQPhdjiI8rWYEgXjWhI8</openid>
+   <out_trade_no>1565756722662931929</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>1</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (491-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (315ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 04:34:00 GMT
+Content-Type: text/plain
+Content-Length: 441
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxd898fcb01713c658]]></appid>
+<mch_id><![CDATA[1483469312]]></mch_id>
+<nonce_str><![CDATA[D4jOmY7P6AnRXGug]]></nonce_str>
+<sign><![CDATA[A3E947374C45AD16017B3650D6023640]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[ORDERPAID]]></err_code>
+<err_code_des><![CDATA[该订单已支付]]></err_code_des>
+</xml>
+<-- END HTTP (441-byte body)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 26064 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 71ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b85d0d67] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1148 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.186 seconds (JVM running for 4.926)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 26085 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 79ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b5d842cd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1284 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.341 seconds (JVM running for 5.061)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 26089 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 68ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e171101] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1230 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.243 seconds (JVM running for 4.979)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565767564499155750",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 0
+
+
+--> END POST (0-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (241ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 07:25:42 GMT
+Content-Type: text/plain
+Content-Length: 107
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[post数据为空]]></return_msg></xml>
+<-- END HTTP (107-byte body)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 26094 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 72ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fcb46f3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1225 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.96 seconds (JVM running for 4.4)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565767663334320383",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 491
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>EVU51SAc4jqEw8WO</nonce_str>
+   <sign>6154E4F2E0D6F9470EA204432923A185</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>oTgZpwTykQPhdjiI8rWYEgXjWhI8</openid>
+   <out_trade_no>1565767663334320383</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>1</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (491-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (412ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 07:27:21 GMT
+Content-Type: text/plain
+Content-Length: 456
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxd898fcb01713c658]]></appid>
+<mch_id><![CDATA[1483469312]]></mch_id>
+<nonce_str><![CDATA[gCiSwM627Lk3LP5L]]></nonce_str>
+<sign><![CDATA[E3FC23E4AAE35AC4AE28EBAEC42586B7]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1415272165882330b78676e11283719200]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+<-- END HTTP (456-byte body)
+【微信支付】response={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1565767664",
+  "nonceStr": "m2PugSP3F0yC8OCd",
+  "packAge": "prepay_id\u003dwx1415272165882330b78676e11283719200",
+  "signType": "MD5",
+  "paySign": "4EE39B232EDED616A7083CD7B0145350"
+}
+【微信支付】request={
+  "payTypeEnum": "WXPAY_H5",
+  "orderId": "1565767708882329524",
+  "orderAmount": 0.01,
+  "orderName": "微信点餐订单",
+  "openid": "oTgZpwTykQPhdjiI8rWYEgXjWhI8"
+}
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 491
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>yAjqJuhlixwli2sn</nonce_str>
+   <sign>DA2A4E4E32306D7E9D7084498F3D2AFE</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>oTgZpwTykQPhdjiI8rWYEgXjWhI8</openid>
+   <out_trade_no>1565767708882329524</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>1</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (491-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (301ms)
+Server: nginx
+Date: Wed, 14 Aug 2019 07:28:06 GMT
+Content-Type: text/plain
+Content-Length: 456
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxd898fcb01713c658]]></appid>
+<mch_id><![CDATA[1483469312]]></mch_id>
+<nonce_str><![CDATA[PvreDAiobWG0Nv1R]]></nonce_str>
+<sign><![CDATA[49883A7B5A7F06FD817FA38D6E55D2CD]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx1415280685973660c922cce21470906800]]></prepay_id>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+</xml>
+<-- END HTTP (456-byte body)
+【微信支付】response={
+  "appId": "wxd898fcb01713c658",
+  "timeStamp": "1565767710",
+  "nonceStr": "4sae3GVGhtR0Dazm",
+  "packAge": "prepay_id\u003dwx1415280685973660c922cce21470906800",
+  "signType": "MD5",
+  "paySign": "C6DCBC2DF86F7F4D91642264FA73CAED"
+}
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@ca37ca9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@31d9336 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1ca8eee1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@47333c28 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6f067820 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5dcf4ce4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: 08003
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 26177 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 82ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a969bb26] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1293 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.479 seconds (JVM running for 5.21)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s199ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s362ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s791ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s987ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s795ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s51ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s261ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s953ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s411ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s390ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s171ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s727ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s522ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s558ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s618ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s414ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s219ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s412ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s444ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m40s797ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 26389 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 77ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b8c11223] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1210 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 4.282 seconds (JVM running for 5.042)
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s743ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s621ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s511ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s386ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s670ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s382ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s122ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s552ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s645ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s697ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s304ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s307ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s450ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s557ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s438ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s378ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s602ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m45s818ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s133ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s398ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s615ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s412ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s978ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m28s548ms).
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+【微信支付】异步通知，payResponse={
+  "orderAmount": 0.01,
+  "orderId": "1565756722662931929",
+  "outTradeNo": "4200000352201908145241725515"
+}
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1e8f8c7c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@34a5d61f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7355e1b9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.

@@ -49,6 +49,9 @@ public class OrderForm2OrderDTOConverter {
 
         orderDTO.setOrderDetailList(orderDetailList);
 
+        // 借用账号
+        orderDTO.setBuyerOpenid("oTgZpwTykQPhdjiI8rWYEgXjWhI8");
+
         return orderDTO;
 
     }

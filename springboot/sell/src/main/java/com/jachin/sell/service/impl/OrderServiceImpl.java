@@ -13,6 +13,7 @@ import com.jachin.sell.enums.PayStatusEnum;
 import com.jachin.sell.enums.ResultEnum;
 import com.jachin.sell.exception.SellException;
 import com.jachin.sell.service.OrderService;
+import com.jachin.sell.service.PayService;
 import com.jachin.sell.service.ProductService;
 import com.jachin.sell.utils.KeyUtil;
 import lombok.extern.slf4j.Slf4j;
@@ -48,6 +49,8 @@ public class OrderServiceImpl implements OrderService {
     private OrderDetailDao orderDetailDao;
     @Autowired
     private OrderMasterDao orderMasterDao;
+    @Autowired
+    private PayService payService;
 
     @Override
     @Transactional // 有了事务，函数内部数据库操作的一些顺序就无关紧要了，反正是一条绳上的mz
@@ -98,10 +101,12 @@ public class OrderServiceImpl implements OrderService {
     @Override
     public OrderDTO findOne(String orderId) {
 
-        OrderMaster orderMaster = orderMasterDao.findById(orderId).get();
-        if (orderMaster == null) {
+        if (!orderMasterDao.findById(orderId).isPresent()) {
             throw new SellException(ResultEnum.ORDER_NOT_EXIST);
         }
+
+        OrderMaster orderMaster = orderMasterDao.findById(orderId).get();
+
 
         List<OrderDetail> orderDetailList = orderDetailDao.findByOrderId(orderId);
         if (CollectionUtils.isEmpty(orderDetailList)) {
@@ -160,7 +165,7 @@ public class OrderServiceImpl implements OrderService {
 
         // 若已支付 -> 退款
         if (orderDTO.getPayStatus().equals(PayStatusEnum.SUCCESS)) {
-            // TODO
+            payService.refund(orderDTO);
         }
         return orderDTO;
     }
@@ -213,5 +218,14 @@ public class OrderServiceImpl implements OrderService {
         }
 
         return orderDTO;
+    }
+
+    @Override
+    public Page<OrderDTO> findList(Pageable pageable) {
+        Page<OrderMaster> orderMasterPage = orderMasterDao.findAll(pageable);
+
+        List<OrderDTO> orderDTOList = OrderMaster2OrderConverter.convert(orderMasterPage.getContent());
+
+        return new PageImpl<>(orderDTOList,pageable,orderMasterPage.getTotalElements());
     }
 }

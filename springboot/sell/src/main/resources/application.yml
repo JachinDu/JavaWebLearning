@@ -23,3 +23,32 @@ server:
 #    com.jachin.sell.LoggerTest: debug   # 指定某类的日志输出级别
 #
 ##  level: debug  # 指定统一日志输出级别
+wechat:
+  mpAppId: wxd898fcb01713c658
+#  mpAppId: wxdb89807d80cfc463
+  mpAppSecret: 29d8a65db31472aa87800e3b0d739f2
+#  mpAppSecret: f509e4c3d0e48d7f190d65f66cbf12d3
+  mchId: 1483469312
+  mchKey: C5245D70627C1F8E9964D494B0735025
+  keyPath: /Users/jc/Documents/JavaNote/wechat-food/coding-117/doc/h5.p12
+
+
+#  # 公众账号，授权（使用测试号）
+#  mpAppId: wxd898fcb01713c658
+#  mpAppSecret: f509e4c3d0e48d7f190d65f66cbf12d3
+#
+#
+#
+#  # 开放平台,  卖家扫码登录用
+#  openAppId: wx6ad144e54af67d87
+#  openAppSecret: 91a2ff6d38a2bbccfb7e9xxxxxx
+#  # 支付/商户号
+#  mchId: 1483469312
+#  mchKey: C5245D70627C1F8E9964D494B0735025
+#  # 发起支付不需要证书, 退款需要
+#  keyPath:
+  notifyUrl: http://jachin2013.natapp1.cc/sell/pay/notify
+#  templateId:
+#    orderStatus: e-Cqq67QxD6YNI41iRiqawEYdFavW_7pc7LyEMb-yeQ
+
+

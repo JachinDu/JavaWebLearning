@@ -1,0 +1,128 @@
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@425802aa (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@54d15e1a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@37bca47d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: 08003
+【微信支付】异步通知，payResponse={
+  "orderAmount": 0.01,
+  "orderId": "1565767663334320383",
+  "outTradeNo": "4200000340201908144824550784"
+}
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3c33f2d6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@36cb99a6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@504ff8f6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@289c7395 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】异步通知，payResponse={
+  "orderAmount": 0.01,
+  "orderId": "1565767708882329524",
+  "outTradeNo": "4200000351201908141174150351"
+}
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m52s446ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s921ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s662ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s283ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s392ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s625ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s484ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s521ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s717ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s651ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s652ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s528ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s489ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s776ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s442ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s405ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s794ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s368ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m24s861ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s561ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m54s52ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s641ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s62ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s46ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s872ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s404ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s840ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s193ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s891ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s812ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s433ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s537ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s934ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s247ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s333ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s318ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s757ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s519ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m53s646ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s89ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s511ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m53s322ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s959ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s652ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m53s296ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m47s366ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m32s74ms).
+【微信支付】异步通知，payResponse={
+  "orderAmount": 0.01,
+  "orderId": "1563769911696261783",
+  "outTradeNo": "4200000346201908145425420534"
+}
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s335ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s879ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m51s637ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m55s254ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m52s289ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s427ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m49s147ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s929ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s955ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s927ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s934ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s992ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s996ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s857ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s897ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m35s890ms).
+【微信支付】异步通知，payResponse={
+  "orderAmount": 0.01,
+  "orderId": "1565755727486868872",
+  "outTradeNo": "4200000355201908147714839833"
+}
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6b990b24 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@61616054 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7000d9f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@444c0d53 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3c411fde (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3fbff31a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: 08003
+【微信支付】异步通知，payResponse={
+  "orderAmount": 0.01,
+  "orderId": "1565756722662931929",
+  "outTradeNo": "4200000352201908145241725515"
+}
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@e8d937c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@475f80c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@23831bc7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b620465 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1abee366 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4066882c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+SQL Error: 0, SQLState: 08003
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s331ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s881ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m37s124ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s298ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s154ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s773ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s389ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s823ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s694ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s815ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s362ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s193ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m28s478ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h16m35s601ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h35m56s17ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m30s115ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h8m4s88ms).

@@ -1,0 +1,262 @@
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h53m35s166ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h36m3s637ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m44s111ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h48m10s645ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h2m51s918ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h24m35s542ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h15m41s361ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s192ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h43m10s236ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=36m59s46ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m53s901ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on dujiachengdeMacBook-Pro.local with PID 21966 (/Users/jc/IdeaProjects/springboot/sell/target/classes started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 90ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$230c6be4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.21]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1518 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 5.466 seconds (JVM running for 6.749)
+Starting PayServiceImplTest on dujiachengdeMacBook-Pro.local with PID 21989 (started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 115ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4b3aa942] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started PayServiceImplTest in 6.626 seconds (JVM running for 7.895)
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m15s60ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on dujiachengdeMacBook-Pro.local with PID 21993 (started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 76ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1e497773] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started PayServiceImplTest in 5.46 seconds (JVM running for 6.275)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on dujiachengdeMacBook-Pro.local with PID 21996 (started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 105ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$566f3fda] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started PayServiceImplTest in 6.329 seconds (JVM running for 7.389)
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m56s723ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on dujiachengdeMacBook-Pro.local with PID 22016 (started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 110ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f7e2d687] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started PayServiceImplTest in 5.737 seconds (JVM running for 6.599)
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1563769911696261785, orderAmount=3.2, orderName=微信点餐订单, openid=110110, spbillCreateIp=null)
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 165
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>VnxxiIKSftB7yDjY</nonce_str>
+   <sign>79C5F7C6B75F7353EF44931AE6869582</sign>
+--> END POST (165-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (409ms)
+Server: nginx
+Date: Sat, 10 Aug 2019 09:10:17 GMT
+Content-Type: text/plain
+Content-Length: 106
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[XML格式错误]]></return_msg></xml>
+<-- END HTTP (106-byte body)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on dujiachengdeMacBook-Pro.local with PID 22019 (started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 88ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$134419f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started PayServiceImplTest in 5.411 seconds (JVM running for 6.214)
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1563769911696261785, orderAmount=3.2, orderName=微信点餐订单, openid=110110, spbillCreateIp=null)
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 165
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>INMLcjkz1XZiphn4</nonce_str>
+   <sign>0CE4801421D0D81BB4CA21DA52DF4021</sign>
+--> END POST (165-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (334ms)
+Server: nginx
+Date: Sat, 10 Aug 2019 09:11:40 GMT
+Content-Type: text/plain
+Content-Length: 106
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[FAIL]]></return_code><return_msg><![CDATA[XML格式错误]]></return_msg></xml>
+<-- END HTTP (106-byte body)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting PayServiceImplTest on dujiachengdeMacBook-Pro.local with PID 22025 (started by jc in /Users/jc/IdeaProjects/springboot/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 89ms. Found 4 repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$42629fa6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+HHH000412: Hibernate Core {5.3.10.Final}
+HHH000206: hibernate.properties not found
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Initializing ExecutorService 'applicationTaskExecutor'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started PayServiceImplTest in 5.772 seconds (JVM running for 6.589)
+HHH000397: Using ASTQueryTranslatorFactory
+【微信支付】request=PayRequest(payTypeEnum=WXPAY_H5, orderId=1563769911696261785, orderAmount=3.2, orderName=微信点餐订单, openid=110110, spbillCreateIp=null)
+--> POST https://api.mch.weixin.qq.com/pay/unifiedorder http/1.1
+Content-Type: application/xml; charset=utf-8
+Content-Length: 471
+
+<xml>
+   <appid>wxd898fcb01713c658</appid>
+   <mch_id>1483469312</mch_id>
+   <nonce_str>ixeaVzCrGecVzedT</nonce_str>
+   <sign>BFC27EE976F1F8154CC2BF4A8D524F3D</sign>
+   <body>微信点餐订单</body>
+   <notify_url>http://jachin2013.natapp1.cc/sell/pay/notify</notify_url>
+   <openid>110110</openid>
+   <out_trade_no>1563769911696261785</out_trade_no>
+   <spbill_create_ip>8.8.8.8</spbill_create_ip>
+   <total_fee>320</total_fee>
+   <trade_type>JSAPI</trade_type>
+</xml>
+--> END POST (471-byte body)
+<-- 200 OK https://api.mch.weixin.qq.com/pay/unifiedorder (479ms)
+Server: nginx
+Date: Sat, 10 Aug 2019 09:13:21 GMT
+Content-Type: text/plain
+Content-Length: 440
+Connection: keep-alive
+Keep-Alive: timeout=8
+
+<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxd898fcb01713c658]]></appid>
+<mch_id><![CDATA[1483469312]]></mch_id>
+<nonce_str><![CDATA[DjPtWqmIkh3DQWnA]]></nonce_str>
+<sign><![CDATA[F416FEE5C3CE4048596F0F6FD11A2BDF]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[PARAM_ERROR]]></err_code>
+<err_code_des><![CDATA[无效的openid]]></err_code_des>
+</xml>
+<-- END HTTP (440-byte body)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

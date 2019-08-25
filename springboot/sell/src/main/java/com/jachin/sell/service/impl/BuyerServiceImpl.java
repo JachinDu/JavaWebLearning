@@ -39,6 +39,7 @@ public class BuyerServiceImpl implements BuyerService {
 
     // 抽取共用检查方法
     private OrderDTO checkOrderOwner(String openid, String orderId) {
+        openid = "oTgZpwTykQPhdjiI8rWYEgXjWhI8";
         OrderDTO orderDTO = orderService.findOne(orderId);
         if (orderDTO == null) {
             return null;

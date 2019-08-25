@@ -1,10 +1,12 @@
 package com.jachin.sell.dto;
 
+        import com.fasterxml.jackson.annotation.JsonIgnore;
         import com.fasterxml.jackson.annotation.JsonInclude;
         import com.fasterxml.jackson.databind.annotation.JsonSerialize;
         import com.jachin.sell.entity.OrderDetail;
         import com.jachin.sell.enums.OrderStatusEnum;
         import com.jachin.sell.enums.PayStatusEnum;
+        import com.jachin.sell.utils.EnumUtil;
         import com.jachin.sell.utils.serializer.Date2LongSerializer;
         import lombok.Data;
 
@@ -41,4 +43,15 @@ public class OrderDTO {
 
     // 比OrderMaster多了一个订单详情列表项的属性
     List<OrderDetail> orderDetailList;
+
+    @JsonIgnore
+    public OrderStatusEnum getOrderStatusEnum() {
+        return EnumUtil.getByCode(orderStatus, OrderStatusEnum.class);
+    }
+
+    @JsonIgnore
+    public PayStatusEnum getPayStatusEnum() {
+        return EnumUtil.getByCode(payStatus, PayStatusEnum.class);
+    }
+
 }

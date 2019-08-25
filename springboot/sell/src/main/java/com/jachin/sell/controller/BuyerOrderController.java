@@ -57,6 +57,9 @@ public class BuyerOrderController {
             throw new SellException(ResultEnum.CART_EMPTY);
         }
 
+        // 写死openid
+        orderDTO.setBuyerOpenid("oTgZpwTykQPhdjiI8rWYEgXjWhI8");
+
         OrderDTO createResult = orderService.create(orderDTO);
         Map<String, String> map = new HashMap<>();
         map.put("orderId", createResult.getOrderId());

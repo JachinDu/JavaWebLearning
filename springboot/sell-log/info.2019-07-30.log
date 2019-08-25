@@ -1,0 +1,41 @@
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m12s902ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s280ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s306ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s913ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s903ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s906ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s877ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s911ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s900ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m49s646ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s896ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s920ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s894ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s893ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s911ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s908ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s912ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s916ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s893ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s878ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m29s900ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h37m41s148ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m46s821ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s785ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s660ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s438ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s700ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s417ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s534ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s231ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m48s768ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s766ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s826ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s675ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m47s514ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m47s596ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m15s298ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
