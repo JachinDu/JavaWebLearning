@@ -1,13 +1,14 @@
 package com.jachin.sell.exception;
 
 import com.jachin.sell.enums.ResultEnum;
+import lombok.Getter;
 
 /**
  * @description: 自定义异常类
  * @Author: JachinDo
  * @Date: 2019/07/20 15:14
  */
-
+@Getter
 public class SellException extends RuntimeException{
 
     private Integer code;

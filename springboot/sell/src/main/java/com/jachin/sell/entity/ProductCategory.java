@@ -2,6 +2,7 @@ package com.jachin.sell.entity;
 
 
 import lombok.Data;
+import org.hibernate.annotations.DynamicInsert;
 import org.hibernate.annotations.DynamicUpdate;
 
 import javax.persistence.Entity;
@@ -13,6 +14,7 @@ import java.util.Date;
 @Entity
 @Data
 @DynamicUpdate  // 动态更新
+@DynamicInsert
 public class ProductCategory {
 
     @Id
@@ -20,5 +22,8 @@ public class ProductCategory {
     private Integer categoryId;
     private String categoryName;
     private Integer categoryType;
+
+    private Date createTime;
+    private Date updateTime;
 
 }

@@ -2,6 +2,8 @@ package com.jachin.sell.VO;
 
 import lombok.Data;
 
+import java.io.Serializable;
+
 /**
  * @description: http请求返回的最外层对象
  * @Author: JachinDo
@@ -9,7 +11,12 @@ import lombok.Data;
  */
 
 @Data
-public class ResultVO<T> {
+public class ResultVO<T> implements Serializable {
+
+
+
+    // 利用插件保证序列化时唯一id
+    private static final long serialVersionUID = -1712970983658219564L;
 
     // 错误码
     private Integer code;

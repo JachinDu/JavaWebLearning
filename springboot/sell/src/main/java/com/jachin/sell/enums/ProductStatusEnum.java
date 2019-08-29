@@ -8,30 +8,16 @@ import lombok.Getter;
  * @Date: 2019/07/16 17:15
  */
 @Getter
-public enum ProductStatusEnum {
+public enum ProductStatusEnum implements CodeEnum{
 
     UP(0,"在架"),
     DOWN(1,"下架");
 
-    private Integer state;
+    private Integer code;
     private String message;
 
-    ProductStatusEnum(Integer state, String message) {
-        this.state = state;
+    ProductStatusEnum(Integer code, String message) {
+        this.code = code;
         this.message = message;
-    }
-
-    /**
-     * 根据枚举值获取信息
-     * @param index 枚举值
-     * @return 枚举信息
-     */
-    public static ProductStatusEnum stateOf(int index) {
-        for (ProductStatusEnum state : values()) {
-            if (state.getState() == index) {
-                return state;
-            }
-        }
-        return null;
     }
 }

@@ -8,6 +8,9 @@ import com.jachin.sell.enums.ResultEnum;
 import com.jachin.sell.exception.SellException;
 import com.jachin.sell.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.CacheConfig;
+import org.springframework.cache.annotation.CachePut;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
@@ -17,19 +20,21 @@ import java.util.List;
 import java.util.Optional;
 
 @Service
+@CacheConfig(cacheNames = "product")
 public class ProductServiceImpl implements ProductService {
 
     @Autowired
     private ProductInfoDao dao;
 
     @Override
+    @Cacheable(key = "#productId")
     public ProductInfo findById(String productId) {
         return dao.findById(productId).get();
     }
 
     @Override
     public List<ProductInfo> findUpAll() {
-        return dao.findByProductStatus(ProductStatusEnum.UP.getState());
+        return dao.findByProductStatus(ProductStatusEnum.UP.getCode());
     }
 
     @Override
@@ -39,6 +44,7 @@ public class ProductServiceImpl implements ProductService {
     }
 
     @Override
+    @CachePut(key = "#productInfo")
     public ProductInfo save(ProductInfo productInfo) {
 
         return dao.save(productInfo);
@@ -80,4 +86,34 @@ public class ProductServiceImpl implements ProductService {
             dao.save(productInfo);
         }
     }
+
+    @Override
+    public ProductInfo onSale(String productId) {
+
+        ProductInfo productInfo = dao.findById(productId).get();
+        if (productInfo == null) {
+            throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+        }
+        if (productInfo.getProductStatusEnum() == ProductStatusEnum.UP) {
+            throw new SellException(ResultEnum.PRODUCT_STATUS_ERROR);
+        }
+
+        // 更新商品状态
+        productInfo.setProductStatus(ProductStatusEnum.UP.getCode());
+        return dao.save(productInfo);
+    }
+
+    @Override
+    public ProductInfo offSale(String productId) {
+        ProductInfo productInfo = dao.findById(productId).get();
+        if (productInfo == null) {
+            throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+        }
+        if (productInfo.getProductStatusEnum() == ProductStatusEnum.DOWN) {
+            throw new SellException(ResultEnum.PRODUCT_STATUS_ERROR);
+        }
+
+        // 更新商品状态
+        productInfo.setProductStatus(ProductStatusEnum.DOWN.getCode());
+        return dao.save(productInfo);    }
 }

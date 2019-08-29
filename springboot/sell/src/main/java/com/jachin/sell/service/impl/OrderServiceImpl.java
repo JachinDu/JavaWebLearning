@@ -15,6 +15,7 @@ import com.jachin.sell.exception.SellException;
 import com.jachin.sell.service.OrderService;
 import com.jachin.sell.service.PayService;
 import com.jachin.sell.service.ProductService;
+import com.jachin.sell.service.WebSocket;
 import com.jachin.sell.utils.KeyUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.weaver.ast.Or;
@@ -51,6 +52,8 @@ public class OrderServiceImpl implements OrderService {
     private OrderMasterDao orderMasterDao;
     @Autowired
     private PayService payService;
+    @Autowired
+    private WebSocket webSocket;
 
     @Override
     @Transactional // 有了事务，函数内部数据库操作的一些顺序就无关紧要了，反正是一条绳上的mz
@@ -95,6 +98,10 @@ public class OrderServiceImpl implements OrderService {
                 new CartDTO(e.getProductId(),e.getProductQuantity())
         ).collect(Collectors.toList());
         productService.decreaseStock(cartDTOList);
+
+        // 发送websocket消息
+        webSocket.sendMessage(orderDTO.getOrderId());
+
         return orderDTO;
     }
 
