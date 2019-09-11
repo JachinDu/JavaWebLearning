@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebbeaa4a-ac81-42d0-9ee1-38427831e940" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/config/WechatAccountConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/config/WechatMpConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/config/WechatPayConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/controller/PayController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/controller/WechatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/service/PayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/service/impl/PayServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/utils/JsonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/utils/MathUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/resources/static/api/ratings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/resources/static/api/seller.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/resources/static/pay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/resources/templates/pay/create.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/main/resources/templates/pay/success.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot/sell/src/test/java/com/jachin/sell/service/impl/PayServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot/sell-log/info.2019-07-25.log" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot/sell-log/info.2019-07-25.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot/sell/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot/sell/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/controller/BuyerOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/controller/BuyerOrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/converter/OrderForm2OrderDTOConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/converter/OrderForm2OrderDTOConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/enums/ResultEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/enums/ResultEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/service/impl/BuyerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot/sell/src/main/java/com/jachin/sell/service/impl/BuyerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot/sell/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot/sell/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot/springboot-sday06-springcloud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot/springboot-sday06-springcloud/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +23,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="78" column="9" selection-start-line="61" selection-start-column="8" selection-end-line="78" selection-end-column="9" />
+            <state relative-caret-position="51">
+              <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -67,14 +54,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="392" />
-    <option name="y" value="203" />
-    <option name="width" value="1048" />
-    <option name="height" value="875" />
+    <option name="x" value="51" />
+    <option name="y" value="23" />
+    <option name="width" value="1389" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,6 +96,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,7 +110,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="LeetCode" />
@@ -131,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -154,17 +151,21 @@
       <workItem from="1560264584737" duration="6048000" />
       <workItem from="1566401494932" duration="1372000" />
       <workItem from="1566541104074" duration="26000" />
+      <workItem from="1567145518963" duration="59000" />
+      <workItem from="1567998138214" duration="361000" />
+      <workItem from="1567998954328" duration="121000" />
+      <workItem from="1567999094169" duration="220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19415000" />
+    <option name="totallyTimeSpent" value="20176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="392" y="203" width="1048" height="875" extended-state="0" />
+    <frame x="51" y="23" width="1389" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20983936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24233358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -173,7 +174,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32898173" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -199,12 +200,34 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="78" column="9" selection-start-line="61" selection-start-column="8" selection-end-line="78" selection-end-column="9" />
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18505748" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
