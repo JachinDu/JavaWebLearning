@@ -4,7 +4,7 @@
 
 <div id="wrapper" class="toggled">
     <#--        边栏-->
-    <#include "../common/nav.ftl">
+    <#include "../common/nav_seller.ftl">
 
     <#--        主要内容区域-->
     <div id="page-content-wrapper">

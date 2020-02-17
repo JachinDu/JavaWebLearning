@@ -48,7 +48,7 @@ public class SeckillController {
     /*
     * 商品详情页
     * */
-    //PathVariable注解获取路径上的参数
+    // PathVariable注解获取路径上的参数
     @RequestMapping(value = "/{seckillId}/detail",method = RequestMethod.GET)
     public String detail(@PathVariable("seckillId") Long seckillId, Model model) {
 
@@ -59,7 +59,7 @@ public class SeckillController {
         Seckill seckill = seckillService.getById(seckillId);
         if (seckill == null) {
             return "forward:/seckill/list";
-        }
+    }
         model.addAttribute("seckill", seckill);
         System.out.println(seckill);
         return "detail";

@@ -31,15 +31,15 @@ public class ProductServiceImplTest {
         Assert.assertEquals("1234",productInfo.getProductId());
     }
 
-    @Test
-    public void findUpAll() {
-        List<ProductInfo> upAll = productService.findUpAll();
-        Assert.assertNotEquals(0,upAll.size());
-    }
+//    @Test
+//    public void findUpAll() {
+//        List<ProductInfo> upAll = productService.findUpAll();
+//        Assert.assertNotEquals(0,upAll.size());
+//    }
 
     @Test
     public void findAll() {
-        Pageable pageable = PageRequest.of(0, 2);
+        Pageable pageable = PageRequest.of(1, 2);
         Page<ProductInfo> productInfoPage = productService.findAll(pageable);
 //        System.out.println(productInfoPage.getTotalElements());
         Assert.assertNotEquals(0,productInfoPage.getTotalElements());

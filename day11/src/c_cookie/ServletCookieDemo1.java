@@ -10,10 +10,12 @@ import java.io.IOException;
 
 @WebServlet(name = "ServletCookieDemo1",urlPatterns = "/ServletCookieDemo1")
 public class ServletCookieDemo1 extends HttpServlet {
+    @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
     }
 
+    @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //1.创建cookie对象
         Cookie cookie1 = new Cookie("name", "eric");

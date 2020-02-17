@@ -18,6 +18,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
+import java.lang.reflect.Proxy;
 
 /**
  * @description:
@@ -28,7 +29,6 @@ import javax.servlet.http.HttpServletRequest;
 @Component
 @Slf4j
 public class SellerAuthorizeAspect {
-
     @Autowired
     private StringRedisTemplate redisTemplate;
 

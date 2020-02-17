@@ -16,10 +16,12 @@ import java.util.Date;
 
 @WebServlet(name = "ServletHistory",urlPatterns = "/ServletHistory")
 public class ServletHistory extends HttpServlet {
+    @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
     }
 
+    @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
 //        response.setContentType("text/html;charset=utf-8");//解决中文问题

@@ -1,0 +1,21 @@
+spring:
+  rabbitmq:
+    host: 39.106.177.45
+    port: 5672
+    username: guest
+    password: guest
+  application:
+    name: user
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: JACHIN_CONFIG
+      profile: dev
+  redis:
+    host: 39.106.177.45
+    port: 6379
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka

@@ -127,11 +127,11 @@ public class searchMethodCompare {
 
 
     public static void main(String[] args) {
-        int[] arr = {1, 3, 4, 5, 2, 33, 22};
-        int[] sortedArr = sortMethodCompare.countSort(arr);
-        System.out.println(Arrays.toString(sortedArr));
-//        System.out.println(binarySearch(sortedArr,33,0,arr.length-1));
-//        System.out.println(insertSearch(sortedArr,1,0,arr.length-1));
-        System.out.println(fibSearch(sortedArr,33,sortedArr.length,10));
+//        int[] arr = {1, 3, 4, 5, 2, 33, 22};
+//        int[] sortedArr = sortMethodCompare.countSort(arr);
+//        System.out.println(Arrays.toString(sortedArr));
+////        System.out.println(binarySearch(sortedArr,33,0,arr.length-1));
+////        System.out.println(insertSearch(sortedArr,1,0,arr.length-1));
+//        System.out.println(fibSearch(sortedArr,33,sortedArr.length,10));
     }
 }

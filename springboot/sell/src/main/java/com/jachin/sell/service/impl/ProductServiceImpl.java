@@ -33,8 +33,8 @@ public class ProductServiceImpl implements ProductService {
     }
 
     @Override
-    public List<ProductInfo> findUpAll() {
-        return dao.findByProductStatus(ProductStatusEnum.UP.getCode());
+    public Page<ProductInfo> findUpAll(Integer productStatus, Pageable pageable) {
+        return dao.findByProductStatus(productStatus,pageable);
     }
 
     @Override
@@ -44,7 +44,7 @@ public class ProductServiceImpl implements ProductService {
     }
 
     @Override
-    @CachePut(key = "#productInfo")
+//    @CachePut(key = "#productInfo")
     public ProductInfo save(ProductInfo productInfo) {
 
         return dao.save(productInfo);

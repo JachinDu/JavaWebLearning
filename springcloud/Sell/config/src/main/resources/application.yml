@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: jachin_config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/JachinDu/springcloud-config.git
+          username: jiachengdd@icloud.com
+          password: jiacheng0801
+          basedir: /Users/jc/IdeaProjects/springcloud/Sell/config/basedir
+  rabbitmq:
+    host: 39.106.177.45
+    port: 5672
+    username: guest
+    password: guest
+eureka:
+#  instance:
+#    hostname: 39.106.177.45
+  client:
+    service-url:
+#      defaultZone: http://jachindo.top:8761/eureka
+      defaultZone: http://localhost:8761/eureka
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+server:
+  port: 8081

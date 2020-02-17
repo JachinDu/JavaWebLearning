@@ -21,6 +21,10 @@ public class SearchAlgo {
     }
 
 
+
+
+
+
     public static void main(String[] args) {
         int[] arr = {1, 3, 4, 5, 2, 33, 22};
         System.out.println(binarySearch(arr,23,0,arr.length-1));

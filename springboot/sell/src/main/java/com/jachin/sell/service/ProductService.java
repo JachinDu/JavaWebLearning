@@ -12,8 +12,8 @@ public interface ProductService {
     ProductInfo findById(String productId);
 
     // 买家端查询在架商品
-    List<ProductInfo> findUpAll();
-
+//    List<ProductInfo> findUpAll();
+    Page<ProductInfo> findUpAll(Integer productStatus, Pageable pageable);
     // 卖家端查询所有（分页）
     Page<ProductInfo> findAll(Pageable pageable);
 
